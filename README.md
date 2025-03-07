@@ -1,7 +1,7 @@
 # 🎬 Movie Recommendation System
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.20.0%2B-red)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.43.0%2B-red)
 ![TMDB API](https://img.shields.io/badge/TMDB%20API-v3-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
